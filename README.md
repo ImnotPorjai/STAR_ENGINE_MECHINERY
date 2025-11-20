@@ -1,1 +1,2 @@
 # STAR_ENGINE_MECHINERY
+In this simulation, we will animate a star-shaped engine mechanism and track the motion of its pistons as the central crank rotates. This exercise is based on concepts from mechanism design and kinematics, focusing on multi-degree-of-freedom linkages and their motion analysis. We will use MATLAB to construct the mechanism, scale the visual representation, and simulate the dynamic motion of the pistons and links.
