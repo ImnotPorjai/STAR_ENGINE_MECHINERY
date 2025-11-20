@@ -3,9 +3,13 @@ In this simulation, we will animate a star-engine mechanism which have 5 pistons
 
 # What our code can do.
 1.Construct the star engine mechanism using crank–link vector loop equations.
+
 2.Solve for the angular positions and piston coordinates as a function of crank angle.
+
 3.Track the trajectory of piston 1 and optionally pentagon center.
+
 4.Plot the radial velocity of piston 1 over one full rotation of the crank.
+
 5.Display the piston stroke and highlight maximum and minimum positions.
 
 When completed, the simulation will be:
