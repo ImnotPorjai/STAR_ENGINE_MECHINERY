@@ -24,7 +24,7 @@ When completed, the simulation will be:
 
 
 
-# Star Engine Simulation – Step-by-Step
+# Star Engine Simulation – Step-by-Step [🚀 Run the code](star_engine_real_solid_link.m)
 Step 1: Load geometric parameters 
 ---> Define number of pistons, crank radius, link length, polygon size, piston width/height, link width, base crank speed.
 
