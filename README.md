@@ -16,7 +16,7 @@ When completed, the simulation will be:
 
 Click the thumbnail below to open/download the full `.mov` video:
 
-[![Engine Animation](STAR_ENGINE_MECHINERY/untitiled.mov)]
+[![Engine Animation](STAR_ENGINE_MECHINERY/untitled.mov)]
 
 
 
