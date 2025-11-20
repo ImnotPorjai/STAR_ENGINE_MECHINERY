@@ -14,6 +14,10 @@ In this simulation, we will animate a star-engine mechanism which have 5 pistons
 
 When completed, the simulation will be:
 
+Click the thumbnail below to open/download the full `.mov` video:
+
+[![Engine Animation](STAR_ENGINE_MECHINERY/untitiled.mov)]
+
 
 
 
