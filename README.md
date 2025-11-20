@@ -24,8 +24,7 @@ When completed, the simulation will be:
 
 
 
-# Star Engine Simulation – Step-by-Step  
-[🚀 `Run the code`](star_engine_v7_real.m)
+# Star Engine Simulation – Step-by-Step  ---> [🚀 `Run the code`](star_engine_v7_real.m)
 
 
 Step 1: Load geometric parameters 
