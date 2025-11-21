@@ -22,13 +22,13 @@ In this simulation, we will animate a star-engine mechanism which have 5 pistons
 
 When completed, the simulation will be:
 
-![](Untitled(2).gif)
+![](final.gif)
 
-# ⭐ Star Engine Simulation - Complete Code Walkthrough
+# Star Engine Simulation - Complete Code Walkthrough
 
 <div align="center">
 
-![MATLAB](https://img.shields.io/badge/MATLAB-R2018b+-orange.svg)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2024b+-orange.svg)
 ![Math](https://img.shields.io/badge/Math-Symbolic-blue.svg)
 ![Animation](https://img.shields.io/badge/Animation-Real--time-success.svg)
 
