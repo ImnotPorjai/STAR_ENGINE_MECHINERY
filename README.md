@@ -48,7 +48,7 @@ When completed, the simulation will be:
 
 **Step-by-step breakdown of a 5-cylinder radial star engine simulation**
 
-[Code Flow](star_engine_one_cycle_highres_centered.m) [Data Flow Diagram](Data_Flow_Diagram) 
+[Code Flow](star_engine_one_cycle_highres_centered.m) [Analysis](star_engine_one_cycle_highres_centered.m) [Data Flow Diagram](Data_Flow_Diagram) 
 
 </div>
 
