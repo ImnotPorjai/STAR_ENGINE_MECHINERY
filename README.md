@@ -19,22 +19,26 @@ In this simulation, we will animate a star-engine mechanism which have 5 pistons
 | **All Pistons Velocity** | Comparative view of all 5 pistons | Color-coded with legend |
 | **Crank Angular Velocity** | ω vs time | Real-time speed tracking |
 | **Piston 1 Acceleration** | Using symbolic differentiation | Accurate physical simulation |
+
 When completed, the simulation will be:
 
 ![](Untitled(2).gif)
 
+# ⭐ Star Engine Simulation - Complete Code Walkthrough
 
+<div align="center">
 
+![MATLAB](https://img.shields.io/badge/MATLAB-R2018b+-orange.svg)
+![Math](https://img.shields.io/badge/Math-Symbolic-blue.svg)
+![Animation](https://img.shields.io/badge/Animation-Real--time-success.svg)
 
+**Step-by-step breakdown of a 5-cylinder radial star engine simulation**
 
+[Quick Start](#-quick-start) • [Code Flow](#-complete-code-flow) • [Key Concepts](#-key-concepts) • [Mathematics](#-mathematical-formulas)
 
+</div>
 
+---
 
-
-# Star Engine Simulation – Step-by-Step  ---> [🚀 `Run the code`](star_engine_v7_real.m)
-
----> engine_params() returns mechanism dimensions and base crank speed
-
-Step 9: Pentagon vertices function
----> pentagon_coords(size) returns x,y coordinates for pentagon vertices for animation
+## 🚀 Quick Start
 
