@@ -1,0 +1,57 @@
+## Data Flow Diagram
+
+┌─────────────────────────────────────────┐
+│         INITIALIZATION                  │
+│  • Load parameters                      │
+│  • Create symbolic math                 │
+│  • Setup graphics                       │
+└──────────────┬──────────────────────────┘
+               ↓
+      ┌────────────────┐
+      │ START LOOP     │
+      └────┬───────────┘
+           ↓
+    ┌──────────────────────┐
+    │  UPDATE TIME & ANGLE │
+    │  t += 0.01           │
+    │  θ += ω·dt           │
+    └──────┬───────────────┘
+           ↓
+    ┌──────────────────────┐
+    │  CALCULATE POSITIONS │
+    │  Px = subs(Px_sym,θ) │
+    │  Py = subs(Py_sym,θ) │
+    └──────┬───────────────┘
+           ↓
+    ┌──────────────────────┐
+    │  UPDATE GRAPHICS     │
+    │  • Crank             │
+    │  • Pentagon          │
+    │  • 5 Pistons         │
+    │  • Connecting rods   │
+    │  • Trails            │
+    └──────┬───────────────┘
+           ↓
+    ┌──────────────────────┐
+    │ CALCULATE KINEMATICS │
+    │  v = (dx/dθ)·ω       │
+    │  a = (d²x/dθ²)·ω²    │
+    └──────┬───────────────┘
+           ↓
+    ┌──────────────────────┐
+    │  STORE DATA          │
+    │  Arrays append values│
+    └──────┬───────────────┘
+           ↓
+    ┌──────────────────────┐
+    │  UPDATE GRAPHS       │
+    │  • 4 subplots        │
+    │  • Text annotations  │
+    └──────┬───────────────┘
+           ↓
+    ┌──────────────────────┐
+    │  RENDER & PAUSE      │
+    │  drawnow + pause(dt) │
+    └──────┬───────────────┘
+           ↓
+      [Loop back] ↻
