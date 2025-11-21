@@ -30,7 +30,7 @@ When completed, the simulation will be:
 
 ### Visual Animation
 -  **radial position, velocity, acceleratiion VS Time**
--  **radial position, velocity, acceleration VS Omega**
+-  **radial position, velocity, acceleration VS Angle**
  
 <p float="left">
   <img src="Time.png" width="500" height="300"/>
