@@ -32,8 +32,10 @@ When completed, the simulation will be:
 -  **radial position, velocity, acceleratiion VS Time**
 -  **radial position, velocity, acceleration VS Omega**
  
-
-<img src="Time.png" width="500" height="300"><img src="Omega.png" width="500" height="300">
+<p float="left">
+  <img src="Time.png" width="500" height="300"/>
+  <img src="Omega.png" width="500" height="300" />
+</p>
 
 
 # Star Engine Simulation - Complete Code Walkthrough
