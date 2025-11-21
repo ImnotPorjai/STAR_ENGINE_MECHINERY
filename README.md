@@ -12,7 +12,7 @@ In this simulation, we will animate a star-engine mechanism which have 5 pistons
 -  **Central triangle** showing engine center
 -  **Real-time rendering** with smooth 100 FPS animation
 
-### 📊 Real-Time Graphs (4 Plots)
+### Real-Time Graphs
 | Plot | Description | Key Metrics |
 |------|-------------|-------------|
 | **Piston 1 Velocity** | Radial velocity profile | Current, Max, Min values |
