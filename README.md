@@ -34,7 +34,7 @@ When completed, the simulation will be:
 
 **Step-by-step breakdown of a 5-cylinder radial star engine simulation**
 
-[Quick Start](#-quick-start) • [Code Flow](#-complete-code-flow) • [Key Concepts](#-key-concepts) • [Mathematics](#-mathematical-formulas)
+[Code Flow](#-complete-code-flow) 
 
 </div>
 
