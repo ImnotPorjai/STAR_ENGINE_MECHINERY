@@ -26,6 +26,17 @@ When completed, the simulation will be:
 
 ![](final.gif.crdownload)
 
+## Analysis
+
+### Visual Animation
+-  **radial position, velocity, acceleratiion VS Time**
+-  **radial position, velocity, acceleration VS Omega**
+-  
+![](Time.png)
+![](Omega.png)
+
+
+
 # Star Engine Simulation - Complete Code Walkthrough
 
 <div align="center">
