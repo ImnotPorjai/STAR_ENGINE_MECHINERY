@@ -23,7 +23,7 @@ In this simulation, we will animate a star-engine mechanism which have 5 pistons
 
 When completed, the simulation will be:
 
-![](final.gif)
+![](final.gif.crdownload)
 
 # Star Engine Simulation - Complete Code Walkthrough
 
